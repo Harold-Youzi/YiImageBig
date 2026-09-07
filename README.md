@@ -105,7 +105,7 @@ SourceCode(C++)/
 
 ## 模型文件
 
-RealESRGAN 模型需要单独准备（可以从https://github.com/YiImageBig/YiImageBig/releases下载），放到 `models` 目录（与 exe 同级）：
+RealESRGAN 模型需要单独准备（可以从 https://github.com/YiImageBig/YiImageBig/releases 下载），放到 `models` 目录（与 exe 同级）：
 
 | 文件 | 用途 |
 |------|------|
