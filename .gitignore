@@ -1,0 +1,43 @@
+# 构建产物
+build/
+build-dbg/
+out/
+cmake-build-*/
+
+# 第三方依赖（由 fetch_sdks.ps1 自动下载）
+third_party/ov/
+third_party/ort/
+third_party/dml/
+third_party/*.nupkg
+
+# stb 头文件（体积极小，保留）
+# third_party/stb/   ← 保留
+
+# IDE / 编辑器
+.vs/
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+CMakeSettings.json
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# 脚本测试产物
+scripts/test_out/
+scripts/*.exe
+scripts/autotest_out.txt
+scripts/dlgtest.log
+scripts/enum_out*.txt
+scripts/test_dlg.log
