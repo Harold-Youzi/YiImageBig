@@ -2,6 +2,12 @@
 
 基于 **RealESRGAN** 模型的本地图片超分辨率放大工具。纯本地推理，无网络依赖。
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
+  <img src="https://img.shields.io/badge/license-MIT-orange" alt="License" />
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform" />
+</p>
+
 ## 功能
 
 - 4 倍超分放大
