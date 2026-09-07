@@ -1,0 +1,61 @@
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==================== Virtual Environments ====================
+venv/
+.venv/
+ENV/
+env/
+.Python
+
+# ==================== IDE ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==================== OS ====================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==================== PyInstaller ====================
+*.spec.bak
+
+# ==================== Models (too large for git) ====================
+# Model files in project root (not inside _internal or venv)
+/*.onnx
+/*.bin
+/*.xml
+/*.pth
+/*.pt
+/*.pth.tar
+/*.ckpt
+models/
+
+# ==================== Logs & Temp ====================
+*.log
+app.log
+*.tmp
+
+# ==================== Build Output ====================
+dist/
+YiImageBig/
+
+# ==================== PyTorch ====================
+*.pt
+*.pth
+checkpoints/
+experiments/

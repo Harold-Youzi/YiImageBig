@@ -1,0 +1,6 @@
+PySide6>=6.5.0
+opencv-python>=4.8.0
+openvino>=2025.0.0
+onnxruntime-directml>=1.24.0
+numpy>=1.24.0
+psutil>=5.9.0
