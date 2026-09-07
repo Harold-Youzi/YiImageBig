@@ -1,8 +1,5 @@
 # YiImageBig 
 
-<p align="center">
-  <img src="docs/icon.png" width="128" alt="YiImageBig Icon" />
-</p>
 
 <p align="center">
   <b>基于 RealESRGAN_x4plus 的 AI 图片放大工具，支持 NVIDIA GPU / Intel GPU / Intel NPU / CPU 多硬件加速</b>
